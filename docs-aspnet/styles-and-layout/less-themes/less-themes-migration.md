@@ -9,6 +9,8 @@ position: 3
 
 # LESS to SASS Theme Migration
 
+> R1 2023 is the last official release of Telerik UI for {{ site.framework }}, where LESS Themes are supported and shipped with the product.
+
 In this article you will learn how to migrate your project from a LESS theme to a SASS theme. If you are not sure whether you are using a LESS theme, check the following section of the [Components Rendering Overview]({% slug components_rendering_overview %}#how-do-i-know-if-i-am-using-a-less-theme) article.
 
 For additional information about the SASS themes, visit the [`SASS-Based Themes`](https://docs.telerik.com/kendo-ui/styles-and-layout/sass-themes) article.
@@ -60,15 +62,15 @@ The following table contains the name of the LESS theme and its SASS counterpart
 | `Default` | `Classic - Main` | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.classic-main.min.css |
 | `Default Dark` | `Classic - Main Dark` | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.classic-main-dark.min.css |
 | `Black` | `Classic - Opal Dark` | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.classic-opal-dark.min.css |
-| `Blue Opal` | `Classic - Opal` | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.classic-opal.min.css |
+| `Blue Opal` | `Classic - Opal` | In Progress | ETA March 2023 |
 | `Silver` | `Classic - Silver` | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.classic-silver.min.css |
 | `Metro` | `Classic - Metro` | In Research | TBA |
 | `Metro Black` | `Classic - Metro Dark` | In Research | TBA |
 | `Moonlight` | `Classic - Moonlight` | In Research | TBA |
 | `Bootstrap 3` | `Bootstrap - Bootstrap 3` | In Progress | ETA March 2023 |
 | `Bootstrap 3 Dark` | `Bootstrap - Bootstrap 3 Dark` | In Progress | ETA March 2023 |
-| `Flat` | `Bootstrap - Turquoise` | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.bootstrap-turquoise.min.css |
-| `Flat Dark` | `Bootstrap - Turquoise Dark` | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.bootstrap-turquoise-dark.min.css |
+| `Flat` | `Bootstrap - Turquoise` | In Progress | ETA March 2023 |
+| `Flat Dark` | `Bootstrap - Turquoise Dark` | In Progress | ETA March 2023 |
 | `Material` | `Material - Main` | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.material-main.min.css |
 | `Material Black` | `Material - Main Dark` | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.material-main-dark.min.css|
 | `Nova` | `Material - Nova` | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.material-nova.min.css |
