@@ -53,7 +53,7 @@ With the new rendering of the components, some of CSS classes used in the old re
 
 The LESS themes have SASS swatches which are under the `Classic` theme.
 
-![{{ site.product_short }} Classic Swatches](images/theme-builder-classic-swatches.png)
+![{{ site.product_short }} Classic Swatches](../images/theme-builder-classic-swatches.png)
 
 The following table contains the name of the LESS theme and its SASS counterpart:
 
@@ -61,8 +61,8 @@ The following table contains the name of the LESS theme and its SASS counterpart
 |:---         |:---        |:---        |:---
 | `Default` | `Classic - Main` | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.classic-main.min.css |
 | `Default Dark` | `Classic - Main Dark` | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.classic-main-dark.min.css |
-| `Black` | `Classic - Opal Dark` | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.classic-opal-dark.min.css |
-| `Blue Opal` | `Classic - Opal` | In Progress | ETA March 2023 |
+| `Black` | `Classic - Opal Dark` | In Progress | ETA March 2023 |
+| `Blue Opal` | `Classic - Opal` | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.classic-opal.min.css |
 | `Silver` | `Classic - Silver` | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.classic-silver.min.css |
 | `Metro` | `Classic - Metro` | In Research | TBA |
 | `Metro Black` | `Classic - Metro Dark` | In Research | TBA |
@@ -74,7 +74,7 @@ The following table contains the name of the LESS theme and its SASS counterpart
 | `Material` | `Material - Main` | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.material-main.min.css |
 | `Material Black` | `Material - Main Dark` | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.material-main-dark.min.css|
 | `Nova` | `Material - Nova` | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.material-nova.min.css |
-| `Office 365` | Fluent - Main | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.fluent-main.min.css |
+| `Office 365` | `Fluent - Main` | Available | https://kendo.cdn.telerik.com/{{ site.mvcCoreVersion }}/styles/kendo.fluent-main.min.css |
 | `High Contrast` | N/A | In Research | TBA |
 | `Fiori` | N/A | Needs Validation | N/A |
 | `Uniform` | N/A | Needs Validation | N/A |
